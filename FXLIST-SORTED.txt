@@ -1,0 +1,25 @@
+BOSS SD-1 SUPER OVERDRIVE                        0            32.95
+BOSS TU-3 CHROMATIC TUNER                        0            50.00
+MXR PHASE 90 PHASER                              0            50.00
+MXR DISTORTION+                                  0            59.00
+BOSS CEB-3 BASS CHORUS                           0            59.99
+MXR FET DRIVER                                   0            70.00
+BOSS PS-5 SUPER SHIFTER                          0            80.00
+BOSS AD-2 ACOUSTIC SIMULATOR                     0            85.00
+BOSS RV-3 DIGITAL REVERB/DELAY                   0            90.00
+MXR CSP210 CUSTOM SHOP SUB MACHINE OCTAVE FUZZ   0            99.95
+JHS PRESTIGE                                     0           100.00
+BOSS SD-1W SUPER OVERDRIVE WAZA CRAFT            0           105.00
+JHS PULP 'N PEEL COMPRESSOR V3                   0           115.00
+MXR M228 DYNA COMP DELUXE COMPRESSOR             0           129.99
+JHS KILT V1                                      0           145.50
+JHS ANGRY CHARLIE V3 OVERDRIVE PEDAL             0           149.00
+JHS EMPORER V2                                   0           150.00
+JHS MORNING GLORY V4                             0           155.00
+JHS PG-14 PAUL GILBERT SIGNATURE DISTORTION      0           160.00
+MXR M292 CARBON COPY DELUXE ANALOG DELAY         0           170.00
+JHS ALL AMERICAN DISTORTION                      0           190.00
+MXR EVH-117 EDDIT VAN HALEN FLANGER PEDAL        0           213.96
+JHS SWEAT TEA V3 2019                            0           265.00
+BOSS HYPER FUZZ FZ-2                             0           300.00
+JHS COLOUR BOX V2                                0           360.00

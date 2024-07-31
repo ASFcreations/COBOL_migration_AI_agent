@@ -2,7 +2,7 @@
 
 # COBOL-Migration-AI-Agent
 
-This repo is the output of a COBOL Migration experiment built to support a Linkedin article. [Rodrigo Soares Linkedin](https://www.linkedin.com/in/rodsoares/)
+This repo is the output of a COBOL Migration experiment built to support a Linkedin article. [Boost Productivity with AI Agents: A COBOL Migration Case Study](https://www.linkedin.com/pulse/boost-productivity-ai-agents-cobol-migration-case-study-soares-oe9re/?trackingId=iTO44OGqSBiW20rFl8hl0A%3D%3D)
 
 This Node.JS Express API replicates a COBOL application functionality. The entire process, including understanding the COBOL code, writing an user story for a Node.js API and creating the API itself was done using AI Agents exclusively.
 
